@@ -1,9 +1,3 @@
-frontend:
-    path: ./
-    publish: ""
-    scripts:
-        build: npm start
-        deploy: npm install
 name: izumi-v3
 region: us-east-1
 yamlVersion: 2
